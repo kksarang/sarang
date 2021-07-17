@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030250685898",
+    "project_id": "sarangconnect-be4da",
+    "storage_bucket": "sarangconnect-be4da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030250685898:android:bd5b447e4d6b86903d5b33",
+        "android_client_info": {
+          "package_name": "com.example.sarang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030250685898-lkf6785phs88etr4sll80jmnui33cjca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWlI5kAPU_Iurr8YhUWyvKGiaYN0V0UhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030250685898-lkf6785phs88etr4sll80jmnui33cjca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
