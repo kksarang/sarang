@@ -3,6 +3,11 @@ sarang r
 # sarang
 It's Like a chating Android app the backend is firebase
 
+chating 
+put status
+sent images
+put like emojis in msgs
+
 ChatApp
 ConnectApp
 Android App
